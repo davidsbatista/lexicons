@@ -7,13 +7,13 @@ Dictionaries and lists of names, acronyms and it's extensions, stop-words, etc.,
 
 [PT-stopwords.txt](PT-stopwords.txt) a collections of stop-words for Portuguese.
 
-[geo-net-pt02_terms_frequency_wpt05.zip](geo-net-pt02_terms_frequency_wpt05.zip)
+[geo-net-pt02_terms_frequency_wpt05.zip](geo-net-pt02_terms_frequency_wpt05.zip) contains the frequency of occurrence of toponyms names from [Geo-Net-PT_02](http://dmir.inesc-id.pt/project/Geo-Net-PT_02_in_English) in [WPT05](http://dmir.inesc-id.pt/project/WPT_05_in_English) a crawl of the Portuguese Web 
 
 [names-surnames-NL-UK-IT-PT-ES.zip](names-surnames-NL-UK-IT-PT-ES.zip) a list of names and surnames for Dutch, English, Portuguese and Spanish.
 
-[publico-cargos.txt](publico-cargos.txt) a list of Portuguese noun quantifiers, i.e., words that occur before a proper noun, gathered from [publico.pt](http://www.publico.pt).
+[publico-cargos.txt](publico-cargos.txt) a list of Portuguese noun quantifiers, i.e., words that occur before a proper noun, gathered from the on-line newspaper [publico.pt](http://www.publico.pt).
 
-[publico-acronyms.txt](publico-acronyms.txt) a list of acronyms and it's possible extensions, extracted from a collection of Portuguese news gathered from [publico.pt](http://www.publico.pt).
+[publico-acronyms.txt](publico-acronyms.txt) a list of acronyms and it's possible extensions, extracted from a collection of Portuguese news gathered from the on-line newspaper [publico.pt](http://www.publico.pt).
 
 [wikipedia-acronyms.txt](wikipedia-acronyms.txt) a list of acronyms and it's possible extesions, extracted from the English Wikipedia.
 
