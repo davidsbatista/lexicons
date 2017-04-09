@@ -1,7 +1,7 @@
 lexica-lists-words
 ==================
 
-Dictionaries and lists of names, acronyms and it's extensions, stop-words, etc., which I gathered for different experiments. Acronyms were automatically extracted with [A Simple Algorithm for Identifying Abbreviation Definitions in Biomedical Text] (http://biotext.berkeley.edu/papers/psb03.pdf) by A.S Schwartz and M.A. Hearst. A Java implementation is available [here](http://biotext.berkeley.edu/code/abbrev/).
+Dictionaries and lists of names, acronyms and it's extensions, stop-words, etc., which I gathered for different experiments. Acronyms were automatically extracted with [A Simple Algorithm for Identifying Abbreviation Definitions in Biomedical Text](http://biotext.berkeley.edu/papers/psb03.pdf) by A.S Schwartz and M.A. Hearst. A Java implementation is available [here](http://biotext.berkeley.edu/code/abbrev/).
 
 - [NomesLex-PT](NomesLex-PT.zip) a lexicon of person names made up of 2,027 first names and 8,019 surnames, more information [here](http://dmir.inesc-id.pt/project/NomesLex-PT_01_in_English).
 
